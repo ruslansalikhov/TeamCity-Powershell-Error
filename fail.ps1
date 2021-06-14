@@ -1,1 +1,3 @@
-Exit 0
+Write-Host "Test"
+
+Exit 1
